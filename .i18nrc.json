@@ -1,0 +1,7 @@
+{
+  "prefix": "kibanaRouterTest",
+  "paths": {
+    "kibanaRouterTest": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}

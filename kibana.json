@@ -1,0 +1,14 @@
+{
+  "id": "kibanaRouterTest",
+  "version": "1.0.0",
+  "kibanaVersion": "kibana",
+  "owner": {
+    "name": "me",
+    "githubTeam": ""
+  },
+  "description": "Plugin to show how the kibana router handles requests",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "optionalPlugins": []
+}
